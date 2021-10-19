@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T13:35:18.886Z" agent="5.0 (Windows)" version="15.5.6" etag="iEJ3PHA4BHiYzY20hjlE" type="github"><diagram id="qybddvxphz85uGfFK7gH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T13:51:57.840Z" agent="5.0 (Windows)" etag="uXp9Yk8BWcHnstYcPtix" version="15.5.6" type="github">
+  <diagram id="qybddvxphz85uGfFK7gH" name="Page-1">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DNJbg20YgYzkptGiebf1-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;Ordrar (visa i tabell)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;- pending &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;- dispatched &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.3.1. Add&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.3.3 Batch processing?&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;Enskild order (visa)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.3.2 Update&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-4" value="&lt;font color=&quot;#009900&quot;&gt;Klick!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-5" value="&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;Kunder (visa i tabell)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.2.1 Add&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.2.2 Remove&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-6" value="&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;Enskild kund (visa)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.2.3 Update&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.2.4 Display pending orders&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.2.5 Display dispatched orders&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-8" value="&lt;font color=&quot;#009900&quot;&gt;Klick!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-9" value="&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;Katalog (visa produkter med lagersaldo i tabell)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.1.1 Add&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.1.2 Remove&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.1.4 Display products where stock = 0&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC0000&quot;&gt;1.1.5 Display restock date&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DNJbg20YgYzkptGiebf1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNJbg20YgYzkptGiebf1-11" value="&lt;font color=&quot;#009900&quot;&gt;Klick!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
